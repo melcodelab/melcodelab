@@ -32,5 +32,5 @@ Sou Software QA Engineer trabalhando com automação de testes, IA/MCP e cloud, 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=melcodelab&layout=compact&theme=tokyonight)
 
 
-![snake gif](https://raw.githubusercontent.com/SEU_USUARIO/melcodelab/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/SEU_USUARIO/melcodelab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/melcodelab/melcodelab/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/melcodelab/melcodelab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

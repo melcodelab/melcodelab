@@ -1,16 +1,36 @@
-## Hi there 👋
+## HI, I'M MEL 👾
 
-<!--
-**melcodelab/melcodelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Existe uma teoria que diz que, se algum dia alguém descobrir exatamente para que serve o Universo e por que ele está aqui, ele desaparecerá instantaneamente e será substituído por algo ainda mais estranho e inexplicável. Existe uma segunda teoria que diz que isso já aconteceu." - Douglas Adams
 
-Here are some ideas to get you started:
+✨ Ciência da Computação, Dados e QA ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ☁️ Sobre mim
+
+```python
+class Mel:
+    cargo       = "Software QA Engineer (atual) na Cielo e Cientista de Dados"
+    nivel       = "Pleno | 4+ anos em tecnologia"
+    formacao    = ["Ciência de Dados", "QA", "Analista de Automação"]
+    foco        = ["Python", "Machine Learning", "Estatística", "IA & Automação"]
+    interesses  = ["Astronomia", "Matemática", "Bioinformática", "Ciência", "História", "Computação"]
+    superpoder  = "Transformar dados confusos em algo que faz sentido 🔍"
+
+    def missao(self):
+        return "Mestrado em Computação Aplicada a Astronomia"
+```
+
+Sou Software QA Engineer trabalhando com automação de testes, IA/MCP e cloud, formada em Ciência de Dados pelo Mackenzie e buscando crescer para uma posição de Cientista de Dados. Sou autodidata — adoro ler sobre astronomia, ciência e história, sempre explorando novas ferramentas e ideias. 👩🏽‍💻
+
+---
+
+### Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=melcodelab&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=melcodelab&layout=compact&theme=tokyonight)
+
+
+![snake gif](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

@@ -2,7 +2,13 @@
 
 > "Existe uma teoria que diz que, se algum dia alguém descobrir exatamente para que serve o Universo e por que ele está aqui, ele desaparecerá instantaneamente e será substituído por algo ainda mais estranho e inexplicável. Existe uma segunda teoria que diz que isso já aconteceu." - Douglas Adams
 
+<p align="center">
+  <img src="gif_marceline.gif" width="400"/>
+</p>
+
 ✨ Ciência da Computação, Dados e QA ✨
+
+
 
 ---
 

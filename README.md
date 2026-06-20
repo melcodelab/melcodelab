@@ -25,7 +25,7 @@ class Mel:
         return "Mestrado em Computação Aplicada a Astronomia"
 ```
 
-Sou Software QA Engineer trabalhando com automação de testes, IA/MCP e cloud, formada em Ciência de Dados pelo Mackenzie e buscando crescer para uma posição de Cientista de Dados. Sou autodidata — adoro ler sobre astronomia, ciência e história, sempre explorando novas ferramentas e ideias. 👩🏽‍💻
+Sou Software QA Engineer trabalhando com automação de testes, IA/MCP e cloud, formada em Ciência de Dados pelo Mackenzie e buscando crescer para uma posição na área de dados e engenharia de machine learning. Sou autodidata, adoro ler sobre astronomia, ciência e história, sempre explorando novas ferramentas e ideias. 👩🏽‍💻
 
 ---
 

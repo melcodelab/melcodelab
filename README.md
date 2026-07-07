@@ -14,9 +14,9 @@
 
 ```python
 class Mel:
-    cargo       = "Software QA Engineer (atual) na Cielo e Cientista de Dados"
+    cargo       = "Software Engineer (atual) na Cielo e Engenheira de Machine Learning"
     nivel       = "Pleno | 4+ anos em tecnologia"
-    formacao    = ["Ciência de Dados", "QA", "Analista de Automação"]
+    formacao    = ["Ciência de Dados", "QA", "Analista de Automação", 'Desenvolvimento de Software']
     foco        = ["Python", "Machine Learning", "Estatística", "IA & Automação"]
     interesses  = ["Astronomia", "Matemática", "Bioinformática", "Ciência", "História", "Computação"]
     superpoder  = "Transformar dados confusos em algo que faz sentido 🔍"

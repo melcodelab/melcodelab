@@ -10,18 +10,17 @@
 
 ```python
 class Mel:
-    cargo       = "Software Engineer (atual) na Cielo e Engenheira de Machine Learning"
+    cargo       = "Software QA Engineer e Cientista da Computação"
     nivel       = "Pleno | 4+ anos em tecnologia"
     formacao    = ["Ciência de Dados", "QA", "Analista de Automação", 'Desenvolvimento de Software']
-    foco        = ["Python", "Machine Learning", "Estatística", "IA & Automação"]
-    interesses  = ["Astronomia", "Matemática", "Bioinformática", "Ciência", "História", "Computação"]
+    interesses  = ["Astronomia", "Matemática", "Bioinformática", "Ciência no geral", "História", "Computação"]
     superpoder  = "Transformar dados confusos em algo que faz sentido 🔍"
 
     def missao(self):
         return "Mestrado em Computação Aplicada a Astronomia"
 ```
 
-Sou Software QA Engineer trabalhando com automação de testes, IA/MCP e cloud, formada em Ciência de Dados pelo Mackenzie e buscando crescer como QA aplicada na área de dados, IA e engenharia de machine learning. Sou autodidata, adoro ler sobre astronomia, ciência e história, sempre explorando novas ferramentas e ideias. 👩🏽‍💻
+Sou Software QA Engineer trabalhando com automação de testes, IA e cloud, formada em Ciência de Dados pelo Mackenzie e buscando crescer na área da computação científica. Sou autodidata, adoro ler sobre astronomia, ciência e história. 👩🏽‍💻
 
 ---
 
